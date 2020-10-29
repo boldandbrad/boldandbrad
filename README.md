@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Brad.
 
-[![Offset Earth (Trees)](https://img.shields.io/offset-earth/trees/bradleycwojcik)](https://ecologi.com/bradleycwojcik)
+[![Ecologi (Trees)](https://img.shields.io/offset-earth/trees/bradleycwojcik)](https://ecologi.com/bradleycwojcik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bradleycwojcik?label=Follow&style=social)](https://twitter.com/bradleycwojcik)
 
-- 🔭 I’m currently working on [euchre-cli](https://github.com/bradleycwojcik/euchre-cli)
-- 🌱 I’m currently learning Go and Bazel
+- 🔭 I’m currently building cli tools like [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) and [makey-cli](https://github.com/bradleycwojcik/makey-cli)
+- 🌱 I’m currently learning Kubernetes on the side
 - 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'm the kind of person who takes the stairs
 
 
 <!--
