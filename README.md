@@ -4,10 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bradleycwojcik?label=Follow&style=social)](https://twitter.com/bradleycwojcik)
 
 - 🔭 I’m currently building cli tools like [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) and [makey-cli](https://github.com/bradleycwojcik/makey-cli)
-- 🌱 I’m currently learning Kubernetes on the side
+- 🌱 I’m currently learning Vuejs and postgresql
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm the kind of person who takes the stairs
-
 
 <!--
 **bradleycwojcik/bradleycwojcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
