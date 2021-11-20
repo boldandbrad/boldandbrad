@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Brad.
 
-[![Ecologi (Trees)](https://img.shields.io/offset-earth/trees/bradleycwojcik)](https://ecologi.com/bradleycwojcik)
+[![Ecologi (Carbon)](https://img.shields.io/offset-earth/carbon/bradleycwojcik)](https://ecologi.com/bradleycwojcik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/boldandbrad?label=Follow&style=social)](https://twitter.com/boldandbrad)
+[![Twitch](https://img.shields.io/twitch/status/boldandbrad?style=social)](https://www.twitch.tv/boldandbrad)
 
 - 🔭 I’m currently building cli tools like [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) and [makey-cli](https://github.com/bradleycwojcik/makey-cli)
-- 🌱 I’m currently learning Vuejs and postgresql
+- 🌱 I’m currently learning Vuejs
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm the kind of person who takes the stairs
 
