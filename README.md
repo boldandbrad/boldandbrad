@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Brad.
 
 [![Ecologi (Trees)](https://img.shields.io/offset-earth/trees/bradleycwojcik)](https://ecologi.com/bradleycwojcik)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bradleycwojcik?label=Follow&style=social)](https://twitter.com/bradleycwojcik)
+[![Twitter Follow](https://img.shields.io/twitter/follow/boldandbrad?label=Follow&style=social)](https://twitter.com/boldandbrad)
 
 - 🔭 I’m currently building cli tools like [euchre-cli](https://github.com/bradleycwojcik/euchre-cli) and [makey-cli](https://github.com/bradleycwojcik/makey-cli)
 - 🌱 I’m currently learning Vuejs and postgresql
