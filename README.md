@@ -5,12 +5,11 @@
 [![Twitch](https://img.shields.io/twitch/status/boldandbrad?style=social)](https://www.twitch.tv/boldandbrad)
 
 - 🔭 I’m currently building cli tools like [euchre-cli](https://github.com/boldandbrad/euchre-cli) and [makey-cli](https://github.com/boldandbrad/makey-cli)
-- 🌱 I’m currently learning Vuejs
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm the kind of person who takes the stairs
+- 🌱 I’m learning Vuejs
+- 😄 Pronouns: He/Him
 
 <!--
-**bradleycwojcik/bradleycwojcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**boldandbrad/boldandbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
