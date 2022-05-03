@@ -7,6 +7,7 @@
 - 🔭 I’m currently building cli tools like [euchre-cli](https://github.com/boldandbrad/euchre-cli) and [makey-cli](https://github.com/boldandbrad/makey-cli)
 - 🌱 I’m learning Vuejs
 - 😄 Pronouns: He/Him
+- 💻 Env: macOS
 
 <!--
 **boldandbrad/boldandbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
