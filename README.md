@@ -4,10 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/boldandbrad?label=Follow&style=social)](https://twitter.com/boldandbrad)
 [![Twitch](https://img.shields.io/twitch/status/boldandbrad?style=social)](https://www.twitch.tv/boldandbrad)
 
-- 🔭 I’m currently building cli tools like [euchre-cli](https://github.com/boldandbrad/euchre-cli) and [makey-cli](https://github.com/boldandbrad/makey-cli)
-- 🌱 I’m learning Vuejs
+- 🔭 Currently building python based cli tools like [makey-cli](https://github.com/boldandbrad/makey-cli) and [euchre-cli](https://github.com/boldandbrad/euchre-cli)
+- ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
+- 🌱 Learning: Vuejs and Swift/SwiftUI
 - 😄 Pronouns: He/Him
-- 💻 Env: macOS
+- 🍎 Env: macOS (latest)
+- 🖊️ Editor: VSCodium/Xcode
 
 <!--
 **boldandbrad/boldandbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
