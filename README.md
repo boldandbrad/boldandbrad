@@ -6,7 +6,7 @@
 
 - 🔭 Currently building python based cli tools like [makey-cli](https://github.com/boldandbrad/makey-cli) and [euchre-cli](https://github.com/boldandbrad/euchre-cli)
 - ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
-- 🌱 Learning: Vuejs and Swift/SwiftUI
+- 🌱 Learning: Tauri, Vue.js 3, and Rust
 - 😄 Pronouns: He/Him
 - 🍎 Env: macOS (latest)
 - 🖊️ Editor: VSCodium/Xcode
