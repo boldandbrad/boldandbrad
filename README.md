@@ -8,8 +8,8 @@
 - ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🌱 Learning: Tauri, Vue.js 3, and Rust
 - 😄 Pronouns: He/Him
-- 🍎 Env: macOS (latest)
-- 🖊️ Editor: VSCodium/Xcode
+- 🍎 Env: macOS (Intel 😥)
+- 🖊️ Editor: VSCodium
 
 <!--
 **boldandbrad/boldandbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
