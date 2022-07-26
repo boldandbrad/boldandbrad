@@ -1,0 +1,2 @@
+MD026: false # allow header to end with punctuation.
+MD041: false # allow first header to not be H1
