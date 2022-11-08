@@ -12,12 +12,11 @@ alt='GitHub Contributions'>
 Software Developer and Scrum ~~Master~~ Guide. Passionate about Agile principles,
 Privacy and Security, and clean code.
 
-- 🔭 Currently building python based cli tools like [makey-cli](https://github.com/boldandbrad/makey-cli)
-  and [euchre-cli](https://github.com/boldandbrad/euchre-cli)
+- 🔭 Currently building python based cli tools like [makey-cli](https://github.com/boldandbrad/makey-cli), [euchre-cli](https://github.com/boldandbrad/euchre-cli), and [bgg-cli](https://github.com/boldandbrad/bgg-cli)
 - ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🌱 Learning: [Rust](https://www.rust-lang.org)
 - 🤔 Interested in: [Tauri](https://tauri.app), [Vite](https://vitejs.dev),
-  [Vue](https://vuejs.org), [tailwindcss](https://tailwindcss.com), [Bun](https://bun.sh)
+  [Vue](https://vuejs.org), [tailwindcss](https://tailwindcss.com)
 - 😄 Pronouns: He/Him
 - 🍎 Env: macOS (Intel 😥)
 - 🖊️ Editor: VSCodium
