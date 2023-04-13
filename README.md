@@ -17,6 +17,7 @@ Privacy and Security, and clean code. In my free time I tinker with legos and my
 - 🌱 Learning: [Rust](https://www.rust-lang.org)
 - 🤔 Interested in: [Tauri](https://tauri.app), [Vite](https://vitejs.dev),
   [Vue](https://vuejs.org), [tailwindcss](https://tailwindcss.com)
+- 📚 Languages: Python, Java, JavaScript
 - 😄 Pronouns: He/Him
 - 🍎 Env: macOS (Intel 😥)
 - 🖊️ Editor: VSCodium
