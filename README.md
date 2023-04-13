@@ -18,6 +18,6 @@ Privacy and Security, and clean code. In my free time I play Minecraft and tinke
 - 🤔 Interested in: [Tauri](https://tauri.app), [Vite](https://vitejs.dev),
   [Vue](https://vuejs.org), [tailwindcss](https://tailwindcss.com)
 - 📚 Languages: Python, Java, JavaScript
-- 😄 Pronouns: He/Him
+- 🧔‍♂️ Pronouns: He/Him
 - 🍎 Env: macOS (Intel 😥)
 - 🖊️ Editor: VSCodium
