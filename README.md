@@ -9,10 +9,12 @@ alt='GitHub Contributions'>
 [![LinkedIn](https://img.shields.io/badge/-Bradley_Wojcik-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bradleycwojcik)
 [![Ecologi](https://img.shields.io/ecologi/trees/bradleycwojcik)](https://ecologi.com/bradleycwojcik)
 
-Software Developer and Scrum ~~Master~~ Guide. Passionate about Agile principles,
-Privacy and Security, and clean code. In my free time I play Minecraft and tinker with legos and my modded GameCube.
+Software Developer and Scrum Guide. Passionate about agile principles,
+privacy and security, and clean code. In my free time I play Minecraft and
+tinker with legos and my modded GameCube.
 
-- 🔭 Currently building python based cli tools like [makey-cli](https://github.com/boldandbrad/makey-cli), [euchre-cli](https://github.com/boldandbrad/euchre-cli), and [meeple-cli](https://github.com/boldandbrad/meeple-cli)
+- 🔭 Currently building python based cli tools like [makey-cli](https://github.com/boldandbrad/makey-cli),
+  [euchre-cli](https://github.com/boldandbrad/euchre-cli), and [meeple-cli](https://github.com/boldandbrad/meeple-cli)
 - ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🌱 Learning: [Rust](https://www.rust-lang.org)
 - 🤔 Interested in: [Tauri](https://tauri.app), [Vite](https://vitejs.dev),
