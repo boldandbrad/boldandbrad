@@ -15,8 +15,9 @@ Software Developer and Scrum Guide. Passionate about agile principles,
 privacy and security, and clean code. In my free time I play Minecraft and
 tinker with legos and my modded GameCube.
 
-- 🔭 Currently building python based cli tools like [makey-cli](https://github.com/boldandbrad/makey-cli),
-  [euchre-cli](https://github.com/boldandbrad/euchre-cli), and [meeple-cli](https://github.com/boldandbrad/meeple-cli)
+- 🔭 Currently building python based cli tools like [meeple-cli](https://github.com/boldandbrad/meeple-cli),
+  [cntrib-cli](https://github.com/boldandbrad/cntrib-cli), [makey-cli](https://github.com/boldandbrad/makey-cli),
+  and [euchre-cli](https://github.com/boldandbrad/euchre-cli).
 - ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🌱 Learning: [Rust](https://www.rust-lang.org)
 - 🤔 Interested in: [Tauri](https://tauri.app), [Vite](https://vitejs.dev),
