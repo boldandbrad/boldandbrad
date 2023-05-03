@@ -11,8 +11,8 @@ alt='GitHub Contributions'>
 <img align='right' src='https://streak-stats.demolab.com/?user=boldandbrad&hide_total_contributions=true&card_width=467&theme=transparent'
 alt='GitHub Streak'>
 
-Software Developer and Scrum Guide. Passionate about agile principles,
-privacy and security, and clean code. In my free time I play Minecraft and
+Software Developer and Scrum Guide. Passionate about agility,
+privacy, security, and clean code. In my free time I play Minecraft and
 tinker with legos and my modded GameCube.
 
 - 🔭 Currently building python based cli tools like [meeple-cli](https://github.com/boldandbrad/meeple-cli),
@@ -23,6 +23,5 @@ tinker with legos and my modded GameCube.
 - 🤔 Interested in: [Tauri](https://tauri.app), [Vite](https://vitejs.dev),
   [Vue](https://vuejs.org), [tailwindcss](https://tailwindcss.com)
 - 📚 Languages: Python, Java, JavaScript
-- 🧔‍♂️ Pronouns: He/Him
 - 🍎 Env: macOS (Intel 😥)
 - 🖊️ Editor: VSCodium
