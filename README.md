@@ -11,9 +11,9 @@ alt='GitHub Contributions'>
 <img align='right' src='https://streak-stats.demolab.com/?user=boldandbrad&hide_total_contributions=true&card_width=467&theme=transparent'
 alt='GitHub Streaks'>
 
-Developer and aspiring Agile Coach. Passionate about agility, privacy, security,
-and clean code. In my free time I play Minecraft and tinker with legos and my
-modded GameCube.
+Developer and Agile Coach. Passionate about privacy, security, and clean code. I
+enjoy building cli tools and learning new technologies. In my free time I play
+Minecraft, build legos, and tinker with my modded GameCube.
 
 - 🔭 Currently building:
   [meeple-cli](https://github.com/boldandbrad/meeple-cli),
@@ -25,6 +25,8 @@ modded GameCube.
   [Rust](https://www.rust-lang.org)
 - 🤔 Interested in:
   [Tauri](https://tauri.app),
+  [Bun](https://bun.sh),
+  [Deno](https://deno.land)
   [Vite](https://vitejs.dev),
   [Vue](https://vuejs.org),
   [tailwindcss](https://tailwindcss.com),
@@ -32,6 +34,6 @@ modded GameCube.
 - 📚 Languages:
   Python,
   Java,
-  JavaScript/Typescript
+  JavaScript/TypeScript
 - 🍎 Env: macOS (Intel 😥)
 - 🖊️ Editor: VSCodium
