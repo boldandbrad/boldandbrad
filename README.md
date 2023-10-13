@@ -26,7 +26,7 @@ Minecraft, build legos, and tinker with my modded GameCube.
 - 🤔 Interested in:
   [Tauri](https://tauri.app),
   [Bun](https://bun.sh),
-  [Deno](https://deno.land)
+  [Deno](https://deno.land),
   [Vite](https://vitejs.dev),
   [Vue](https://vuejs.org),
   [tailwindcss](https://tailwindcss.com),
