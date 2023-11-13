@@ -16,13 +16,11 @@ enjoy building cli tools and learning new technologies. In my free time I play
 Minecraft, build legos, and tinker with my modded GameCube.
 
 - 🔭 Currently building:
-  [meeple-cli](https://github.com/boldandbrad/meeple-cli),
-  [cntrib-cli](https://github.com/boldandbrad/cntrib-cli),
-  [makey-cli](https://github.com/boldandbrad/makey-cli),
-  [euchre-cli](https://github.com/boldandbrad/euchre-cli)
+  [meeple-cli](https://github.com/boldandbrad/meeple-cli)
 - ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🌱 Learning:
-  [Rust](https://www.rust-lang.org)
+  [Rust](https://www.rust-lang.org) 🦀,
+  Polish 🇵🇱
 - 🤔 Interested in:
   [Tauri](https://tauri.app),
   [Bun](https://bun.sh),
@@ -32,8 +30,8 @@ Minecraft, build legos, and tinker with my modded GameCube.
   [tailwindcss](https://tailwindcss.com),
   [QuiltMC](https://quiltmc.org)
 - 📚 Languages:
-  Python,
-  Java,
+  Python 🐍,
+  Java ☕,
   JavaScript/TypeScript
 - 🍎 Env: macOS (Intel 😥)
-- 🖊️ Editor: VSCodium
+- 🖊️ Editor: [VSCodium](https://vscodium.com/)
