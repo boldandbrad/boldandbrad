@@ -3,9 +3,9 @@
 [![GitHub](https://img.shields.io/badge/boldandbrad-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/boldandbrad)
 [![Twitter](https://img.shields.io/badge/boldandbrad-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/boldandbrad)
 [![Mastodon](https://img.shields.io/badge/boldandbrad-6364ff?logo=mastodon&logoColor=white)](https://mastodon.social/@boldandbrad)
-[![Twitch](https://img.shields.io/badge/boldandbrad-a970ff?style=flat&logo=Twitch&logoColor=white)](https://twitch.tv/boldandbrad)
+[![Twitch](https://img.shields.io/badge/boldandbrad-9146FF?style=flat&logo=Twitch&logoColor=white)](https://twitch.tv/boldandbrad)
 [![Spotify](https://img.shields.io/badge/Bradley%20Wojcik-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/1219025914)
-[![LinkedIn](https://img.shields.io/badge/-Bradley_Wojcik-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bradleycwojcik)
+[![LinkedIn](https://img.shields.io/badge/-Bradley_Wojcik-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bradleycwojcik)
 [![Ecologi](https://img.shields.io/ecologi/trees/bradleycwojcik)](https://ecologi.com/bradleycwojcik)
 
 <!-- TODO: add discord server link -->
