@@ -38,4 +38,5 @@ Minecraft, build legos, and tinker with my modded GameCube.
   Java ☕,
   JavaScript/TypeScript
 - 🍎 Env: macOS (Intel 😥)
-- 🖊️ Editor: [VSCodium](https://vscodium.com/)
+- 🖊️ Editor: [VSCodium](https://vscodium.com/), learning [Neovim](https://neovim.io)
+
