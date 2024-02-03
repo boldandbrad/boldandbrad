@@ -30,10 +30,8 @@ Minecraft, build legos, and tinker with my modded GameCube.
   [Tauri](https://tauri.app),
   [Bun](https://bun.sh),
   [Deno](https://deno.land),
-  [Vite](https://vitejs.dev),
-  [Vue](https://vuejs.org),
+  [htmx](https://htmx.org),
   [tailwindcss](https://tailwindcss.com),
-  [QuiltMC](https://quiltmc.org)
 - 📚 Languages:
   Python 🐍,
   Java ☕,
