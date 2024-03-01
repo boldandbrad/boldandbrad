@@ -17,11 +17,14 @@ alt='GitHub Contributions'>
 alt='GitHub Streaks'>
 
 Developer and Agile Coach. Passionate about privacy, security, and clean code. I
-enjoy building cli tools and learning new technologies. In my free time I play
-Minecraft, build legos, and tinker with my modded GameCube.
+enjoy building cli and tui tools and learning new technologies. In my free time
+I play Minecraft, build legos, and tinker with my modded GameCube.
 
 - 🔭 Currently building:
-  [meeple-cli](https://github.com/boldandbrad/meeple-cli)
+  [meeple-cli](https://github.com/boldandbrad/meeple-cli),
+  [mpl-cli](https://github.com/boldandbrad/mpl-cli),
+  [euchre-cli](https://github.com/boldandbrad/euchre-cli),
+  [euchre-tui](https://github.com/boldandbrad/euchre-tui)
 - ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🌱 Learning:
   [Rust](https://www.rust-lang.org) 🦀,
@@ -31,7 +34,7 @@ Minecraft, build legos, and tinker with my modded GameCube.
   [Bun](https://bun.sh),
   [Deno](https://deno.land),
   [htmx](https://htmx.org),
-  [tailwindcss](https://tailwindcss.com),
+  [tailwindcss](https://tailwindcss.com)
 - 📚 Languages:
   Python 🐍,
   Java ☕,
