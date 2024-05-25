@@ -17,9 +17,9 @@ alt='GitHub Contributions'>
 <img align='right' src='https://streak-stats.demolab.com/?user=boldandbrad&hide_total_contributions=true&card_width=467&theme=transparent'
 alt='GitHub Streaks'>
 
-Developer and Agile Coach. Passionate about privacy, security, and clean code. I
-enjoy building cli and tui tools and learning new technologies. In my free time
-I play Minecraft, build legos, and tinker with my modded GameCube.
+Developer and Agile Coach. I enjoy building cli and tui tools and learning new
+technologies. In my free time I play Minecraft, build legos, and tinker with my
+modded GameCube.
 
 - 🔭 Currently building:
   [meeple-cli](https://github.com/boldandbrad/meeple-cli),
@@ -32,11 +32,11 @@ I play Minecraft, build legos, and tinker with my modded GameCube.
   Polish 🇵🇱
 - 🤔 Interested in:
   [Tauri](https://tauri.app),
-  [Bun](https://bun.sh),
   [Deno](https://deno.land),
   [htmx](https://htmx.org),
   [tailwindcss](https://tailwindcss.com)
 - 📚 Languages:
+  Go,
   Python 🐍,
   Java ☕,
   JavaScript/TypeScript
