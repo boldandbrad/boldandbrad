@@ -34,7 +34,9 @@ modded GameCube.
   [Tauri](https://tauri.app),
   [Deno](https://deno.land),
   [htmx](https://htmx.org),
-  [tailwindcss](https://tailwindcss.com)
+  [tailwindcss](https://tailwindcss.com),
+  [Gleam](https://gleam.run),
+  [Elm](https://elm-lang.org)
 - 📚 Languages:
   Go,
   Python 🐍,
