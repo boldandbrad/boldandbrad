@@ -17,8 +17,7 @@ alt='GitHub Contributions'>
 <img align='right' src='https://streak-stats.demolab.com/?user=boldandbrad&hide_total_contributions=true&card_width=467&theme=transparent'
 alt='GitHub Streaks'>
 
-Developer and Agile Coach. I enjoy building cli and tui tools and learning new
-technologies. In my free time I play Minecraft, build legos, and tinker with my
+Developer, Agile Coach, and lifelong learner. I enjoy building and using CLI and TUI tools. In my free time I play Minecraft, design Legos MOCs, and tinker with my
 modded GameCube.
 
 - 🔭 Currently building:
@@ -26,7 +25,6 @@ modded GameCube.
   [mpl-cli](https://github.com/boldandbrad/mpl-cli),
   [euchre-cli](https://github.com/boldandbrad/euchre-cli),
   [euchre-tui](https://github.com/boldandbrad/euchre-tui)
-- ⚙️ Always refining my [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🌱 Learning:
   [Rust](https://www.rust-lang.org) 🦀,
   Polish 🇵🇱
@@ -42,5 +40,6 @@ modded GameCube.
   Python 🐍,
   Java ☕,
   JavaScript/TypeScript
-- 🍎 Env: macOS (Intel 😥)
+- 💻 Env: macOS 🍎 (Intel 😥)
+- ⚙️ System Config: [dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🖊️ Editor: [VSCodium](https://vscodium.com/), learning [Neovim](https://neovim.io)
