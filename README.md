@@ -17,7 +17,7 @@ alt='GitHub Contributions'>
 <img align='right' src='https://streak-stats.demolab.com/?user=boldandbrad&hide_total_contributions=true&card_width=467&theme=transparent'
 alt='GitHub Streaks'>
 
-Developer, Agile Coach, and lifelong learner. I enjoy building and using CLI and TUI tools. In my free time I play Minecraft, design Legos MOCs, and tinker with my
+Developer, Agile Coach, and lifelong learner who enjoys building and using CLI and TUI tools. In my free time I play Minecraft, design Lego MOCs, and tinker with my
 modded GameCube.
 
 - 🔭 Currently building:
