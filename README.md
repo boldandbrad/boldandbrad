@@ -32,6 +32,7 @@ modded GameCube.
   [Tauri](https://tauri.app),
   [Deno](https://deno.land),
   [htmx](https://htmx.org),
+  [Alpine.js](https://alpinejs.dev),
   [tailwindcss](https://tailwindcss.com),
   [Gleam](https://gleam.run),
   [Elm](https://elm-lang.org)
