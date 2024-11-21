@@ -42,4 +42,4 @@ modded GameCube.
   JavaScript/TypeScript
 - 💻 Env: macOS 🍎 (Intel 😥)
 - ⚙️ System Config: [dotfiles](https://github.com/boldandbrad/dotfiles)
-- 🖊️ Editor: [VSCodium](https://vscodium.com/), learning [Neovim](https://neovim.io)
+- 🖊️ Editor: [Neovim](https://neovim.io), [VSCodium](https://vscodium.com/) when I have to
