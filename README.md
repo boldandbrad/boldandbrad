@@ -16,20 +16,17 @@ Developer, Agile Coach, and aspiring Lego master builder. I enjoy creating and
 using open source CLI and TUI tools, playing Minecraft, and spending time with
 friends and family.
 
-- 🔭 Currently building:
-  [meeple-cli](https://github.com/boldandbrad/meeple-cli),
-  [mpl-cli](https://github.com/boldandbrad/mpl-cli),
-  [euchre-tui](https://github.com/boldandbrad/euchre-tui),
-  [pts](https://github.com/boldandbrad/pts)
-- 🌱 Learning: [Rust](https://www.rust-lang.org) 🦀, Polish 🇵🇱
-- 🤔 Interested in: [Deno](https://deno.land), [htmx](https://htmx.org),
+- 🔭 **Currently building:** little cli and tui tools
+- 🎓 **Learning:** [Rust](https://www.rust-lang.org) 🦀, Polish 🇵🇱
+- 🤔 **Interested in:** [Deno](https://deno.land), [htmx](https://htmx.org),
   [Alpine.js](https://alpinejs.dev), [tailwindcss](https://tailwindcss.com),
-  [Gleam](https://gleam.run)
-- 📚 Languages: Go 🐹, Python 🐍, Java ☕, JavaScript/TypeScript
-- 💻 Env: macOS 🍎 (Intel 😥)
-- ⚙️ System Config:
+  [Kotlin](https://kotlinlang.org)
+- 📚 **Languages:** Go 🐹, Python 🐍, Lua 🌙, JavaScript/TypeScript 🦕, Java ☕,
+  Bash 🐚
+- 💻 **Env:** macOS 🍎 (Intel 😔)
+- ⚙️ **System Config:**
   [boldandbrad/dotfiles](https://github.com/boldandbrad/dotfiles)
-- 🖊️ Editor: [Neovim](https://neovim.io), sometimes
+- 🖊️ **Editor:** [Neovim](https://neovim.io), formerly
   [VSCodium](https://vscodium.com/)
 
 <details>
@@ -38,5 +35,4 @@ friends and family.
 alt='GitHub Contributions'>
 <img src='https://streak-stats.demolab.com/?user=boldandbrad&hide_total_contributions=true&card_width=467&theme=transparent'
 alt='GitHub Streaks'>
-
 </details>
