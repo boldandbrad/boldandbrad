@@ -23,7 +23,7 @@ friends and family.
   [Kotlin](https://kotlinlang.org)
 - 📚 **Languages:** Go 🐹, Python 🐍, Lua 🌙, JavaScript/TypeScript 🦕, Java ☕,
   Bash 🐚
-- 💻 **Env:** macOS 🍎 (Intel 😔)
+- 💻 **Env:** macOS 🍎 (MacBook Air M4 15inch)
 - ⚙️ **System Config:**
   [boldandbrad/dotfiles](https://github.com/boldandbrad/dotfiles)
 - 🖊️ **Editor:** [Neovim](https://neovim.io), formerly
