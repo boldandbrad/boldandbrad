@@ -11,16 +11,19 @@ nature, cozy games, and my people. you won't find me on socials.
 
 a little about me:
 
-- 🔭 **building:** curiosities for linux 🐧 (oh no) and gardening 🌱
+- 🏷️ **name:** boldandbrad 🖼️(more like, boolean operands...)
+- 📐 **specs:** 20/20 graphics 👀, organic processor 🧠
 - 🤔 **interests:** baseball ⚾, board games 🎲, legos 🧱
-- 💡 **motivations:** my wife ❤️, most foods 🌮, music 🎵
+- 💡 **motivations:** my wife ❤️, most foods 🌮, music 🎵, earth 🌎
 - 🗣️ **languages:** english, polish 🇵🇱 (if occasionally being bullied by
   duolingo counts)
 
 a little about my computer:
 
-- 🏷️ **name:** maction 🏈
+- 🏷️ **name:** maction 🔥⬆️
 - 💻 **specs:** m4 macbook air 15inch 🍎 with some added
   [pizzazz](https://github.com/boldandbrad/dotfiles) ✨
+- 🤔 **interests:** running 🏃‍♂️‍➡️, sleep 💤
+- 🚀 **motivations**: electricity ⚡, eventual sentience 💭
 - 📚 **languages:** go 🐹, python 🐍, lua 🌙, javascript/typescript 🦕, java ☕,
     bash 🐚, probably others 🤷‍♂️
