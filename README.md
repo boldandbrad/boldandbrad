@@ -23,7 +23,7 @@ a little about my computer:
 - 🏷️ **name:** maction 🔥⬆️
 - 💻 **specs:** m4 macbook air 15-inch 🍎 with some added
   [pizzazz](https://github.com/boldandbrad/dotfiles) ✨
-- 🤔 **interests:** running 🏃‍♂️‍➡️, sleep
+- 🤔 **interests:** running 🏃‍♂️‍➡️, sleep 💤
 - 🚀 **motivations**: electricity ⚡, eventual sentience 💭
 - 📚 **languages:** go 🐹, python 🐍, lua 🌙, javascript/typescript 🦕, java ☕,
     bash 🐚, probably others 🤷‍♂️
