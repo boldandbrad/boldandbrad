@@ -25,5 +25,5 @@ a little about my computer:
   [pizzazz](https://github.com/boldandbrad/dotfiles) ✨
 - 🤔 **interests:** running 🏃‍♂️‍➡️, sleep 💤
 - 🚀 **motivations**: electricity ⚡, eventual sentience 💭
-- 📚 **languages:** go 🐹, python 🐍, lua 🌙, javascript/typescript 🦕, java ☕,
+- 📚 **languages:** go 🐹, python 🐍, ruby ♦️, lua 🌙, javascript/typescript 🦕, java ☕,
     bash 🐚, probably others 🤷‍♂️
