@@ -1,7 +1,8 @@
 ## hey there 👋, i'm brad
 
 [![website](https://img.shields.io/badge/boldandbrad.dev-89b4fa?style=flat&logo=)](https://boldandbrad.dev)
-[![spotify](https://img.shields.io/badge/bradley_wojcik-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/1219025914)
+[![last.fm](https://img.shields.io/badge/Last.fm-_?logo=last.fm&color=%23D51007)](https://www.last.fm/user/boldandbrad)
+[![discogs](https://img.shields.io/badge/Discogs-_?logo=discogs&color=%23333333)](https://www.discogs.com/user/boldandbrad/collection)
 [![boardgamegeek](https://img.shields.io/badge/boldandbrad-3f3a61?logo=boardgamegeek&logoColor=%23FF5100)](https://boardgamegeek.com/user/boldandbrad)
 [![linkedin](https://img.shields.io/badge/-bradley_wojcik-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bradleycwojcik)
 [![ecologi](https://img.shields.io/ecologi/trees/boldandbrad)](https://ecologi.com/boldandbrad)
